@@ -6,7 +6,7 @@
 **Data Analyst** · SQL | Python (Pandas) | Power BI | Excel
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Akash-blue?logo=linkedin\&style=flat-square)](https://www.linkedin.com/in/akash-lenin-2612aa24a/)
-[![Mail Badge](https://img.shields.io/badge/-akash.email@gmail.com-c14438?logo=gmail\&style=flat-square)](mailto:akash.email@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-akash.email@gmail.com-c14438?logo=gmail\&style=flat-square)](mailto:akash.lenin1@gmail.com)
 
 ---
 
